@@ -1,0 +1,7 @@
+.venv/
+.idea/
+BancoDados/Comum/
+Chave/
+Comum/
+Destino/
+__pycache__/
